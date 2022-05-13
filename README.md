@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **C++, Java, Python, C, Software Engineering**
 
-- 📫 How to reach me **hailing@uw.edu**
+- 📫 You could reach me @ **hailing@uw.edu**
 
-- 📄 Know about my experiences [www.linkedin.com/in/helenhucs](www.linkedin.com/in/helenhucs)
+- 📄 Know about my experiences: [www.linkedin.com/in/helenhucs](www.linkedin.com/in/helenhucs)
 
-- ⚡ Fun fact **I like rock climbing, boardgames, and cooking**
+- ⚡ Fun fact about me: **I like rock climbing, boardgames, and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
