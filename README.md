@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HelenHuCS](https://github.com/HelenHuCS)
 
-- 💬 Ask me about **C++, Java, Python, C, Software Engineering**
+- 💬 Ask me about **C++, Java, Python, C, Software Engineering, etc**
 
 - 📫 You could reach me @ **hailing@uw.edu**
 
