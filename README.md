@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my CS graduate studies**
 
-- 🌱 I’m currently learning **Cloud Computing: AWS and Azure Devops**
+- 🌱 I’m currently learning **Cloud Computing: Database Management and Azure Devops**
 
 - 👨‍💻 My projects are available at [https://github.com/HelenHuCS](https://github.com/HelenHuCS)
 
