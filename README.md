@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helen Hu</h1>
-<h3 align="center">A passionate CS graduate student at Northeastern University</h3>
+<h3 align="center">A passionate CS graduate student at Northeastern University Seattle</h3>
 
 - 🔭 I’m currently working on **my CS graduate studies**
 
@@ -7,13 +7,13 @@
 
 - 👨‍💻 My projects are available at [https://github.com/HelenHuCS](https://github.com/HelenHuCS)
 
-- 💬 Ask me about **C++, Java, Python, C, Software Engineering**
+- 💬 Ask me about **Software Design and Development, Artificial Intelligence, Python, C++, Java**
 
 - 📫 You could reach me at **hailing@uw.edu**
 
 - 📄 Know about my experiences at [www.linkedin.com/in/helenhucs](www.linkedin.com/in/helenhucs)
 
-- ⚡ Fun fact - **I like rock climbing, boardgames, and cooking**
+- ⚡ Fun fact - **I like rock climbing, boardgames, boxing, and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
