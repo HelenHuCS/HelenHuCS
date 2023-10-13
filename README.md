@@ -7,13 +7,13 @@
 
 - 👨‍💻 My projects are available at [https://github.com/HelenHuCS](https://github.com/HelenHuCS)
 
-- 💬 Ask me about **C++, Java, Python, C, Software Engineering**
+- 💬 Ask me about **Software Design and Development, Artificial Intelligence, Machine Learning, Python, C++, and Java**
 
 - 📫 You could reach me at **hailing@uw.edu**
 
 - 📄 Know about my experiences at [www.linkedin.com/in/helenhucs](www.linkedin.com/in/helenhucs)
 
-- ⚡ Fun fact - **I like rock climbing, boardgames, and cooking**
+- ⚡ Fun fact - **I like rock climbing, boxing, boardgames, and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
